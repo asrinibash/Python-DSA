@@ -1,0 +1,28 @@
+## DATA TYPES:
+
+# All the data types are categorized into 3 types:
+
+#   I Basic types: (integer,float,string,complex,boolean)
+#  II Container Types: ()
+# III User defined types: class
+
+# Basic:
+
+# integer: 
+print(1e309); # the range is upto 1e308, if we have 1e309 it will show 'inf'
+
+# float :
+print(1.7e308); # the range is upto 1.7e308, if we have 1.7e309 it will show 'inf'
+
+# boolean:
+print(True)
+print(False)
+
+# complex:
+print(5+3j)  # output: (5+3j)
+
+# String
+print('India')
+print("India")
+print("""India""")   # All three outputs were same, there were some use cases.
+
