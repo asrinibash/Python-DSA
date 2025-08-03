@@ -26,3 +26,15 @@ print('India')
 print("India")
 print("""India""")   # All three outputs were same, there were some use cases.
 
+
+# List
+print([1,2,3,4,5,6]) # visible difference-> square bracket
+
+# tuple
+print((1,2,3,4,5,6)) # moon bracket in tuple
+
+# set
+print({1,2,3,4,5,6}) # curly braces in set, there were some use case is there for all of three
+
+# dict
+print({"name":"sri","age":24,"Address":"India"}) # searching first
