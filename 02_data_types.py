@@ -3,7 +3,7 @@
 # All the data types are categorized into 3 types:
 
 #   I Basic types: (integer,float,string,complex,boolean)
-#  II Container Types: ()
+#  II Container Types: (list,tuple,set,dict)
 # III User defined types: class
 
 # Basic:
