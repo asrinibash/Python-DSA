@@ -13,6 +13,9 @@ print(1e309); # the range is upto 1e308, if we have 1e309 it will show 'inf'
 
 # float :
 print(1.7e308); # the range is upto 1.7e308, if we have 1.7e309 it will show 'inf'
+# 1.7e308: how to read it
+# 1.7 then 10 to the power 308.
+
 
 # boolean:
 print(True)
