@@ -52,3 +52,14 @@ c="world" # you can completely re-assign a string but can't re-assign or edit a 
 # c[5]="X" # it also gives error, can't add more characters to a string.. if we add then it will create a new string
 
 # del c[0] # give error, not possible
+
+
+
+# Operations on string
+
+# Addition
+c= "Hello" +"world" # add 2 string -> concatenation
+print(c)
+
+# Multiplication
+print("hello" *5)
